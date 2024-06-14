@@ -1,0 +1,7 @@
+__pycache__
+# Ignore all files except those required for the build
+*
+!requirements.txt
+!test2.py
+!model/
+!model/**
